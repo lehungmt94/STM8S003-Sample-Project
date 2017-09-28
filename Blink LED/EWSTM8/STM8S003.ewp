@@ -606,11 +606,11 @@
         </option>
         <option>
           <name>IlinkIcfOverride</name>
-          <state>0</state>
+          <state>1</state>
         </option>
         <option>
           <name>IlinkIcfFile</name>
-          <state>$TOOLKIT_DIR$\config\lnkstm8s103f3.icf</state>
+          <state>$PROJ_DIR$\lnkstm8s103f3.icf</state>
         </option>
         <option>
           <name>IlinkIcfFileSlave</name>
@@ -1646,6 +1646,9 @@
   </group>
   <group>
     <name>User</name>
+    <file>
+      <name>$PROJ_DIR$\lnkstm8s103f3.icf</name>
+    </file>
     <file>
       <name>$PROJ_DIR$\..\src\main.c</name>
     </file>
