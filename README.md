@@ -9,6 +9,8 @@ Email: lehungmt94@gmail.com\
 Website: http://mculearning.wordpress.com \
 Youtube: https://www.youtube.com/channel/UCVWZqOahvhX5bSZmaC2wrVQ 
 
-Note\
+Note
 >Please Clone Project not download as ZIP file mabe have erorr when compile on IAR\
-Project working on IAR Embedded Workbench for STMicroelectronics STM8 2.20  
+Project working on IAR Embedded Workbench for STMicroelectronics STM8 2.20
+>Only use project for iar embedded workbench for stmicroelectronics STM8 version 2.20 or higher
+
