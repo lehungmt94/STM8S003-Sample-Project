@@ -1645,7 +1645,7 @@
     </file>
   </group>
   <group>
-    <name>User</name>
+    <name>User ADC</name>
     <file>
       <name>$PROJ_DIR$\lnkstm8s103f3.icf</name>
     </file>
